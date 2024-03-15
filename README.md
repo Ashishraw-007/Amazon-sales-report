@@ -1,3 +1,3 @@
-# Python_Amazon_Sales_Analysis
+# Python Amazon Sales Analysis
 
-Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
+The Project presents a comprehensive exploration of sales data obtained from Amazon using Python libraries such as Pandas, NumPy, and Seaborn. This report serves as a valuable resource for stakeholders, including sales managers, marketing teams, and business analysts, to gain insights into Amazon sales performance, customer behavior, and market trends.
